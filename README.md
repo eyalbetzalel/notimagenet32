@@ -1,4 +1,4 @@
-# Generative Models Syntethic Dataset (GMSD)
+# NotImageNet32 Dataset
 
 ![alt text](https://github.com/eyalbetzalel/gmsd/blob/main/gmsd_examples.jpg)
 
