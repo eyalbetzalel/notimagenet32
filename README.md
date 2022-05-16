@@ -10,7 +10,7 @@ pip install torch
 
 ## Run
 
-python get_gmsd.py
+python get_notimagenet32.py
 
 ## References
 
