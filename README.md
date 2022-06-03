@@ -6,11 +6,13 @@ An auxiliary dataset, NotImageNet32, of 100K images created by using ImageGPT mo
 
 ## Depencdnices
 
-pip install torch
+```pip install torch```
 
 ## Run
 
-python get_notimagenet32.py
+```python get_notimagenet32.py```
+
+Integerate it in your likelihood based generative model and measure the results. 
 
 ## References
 
